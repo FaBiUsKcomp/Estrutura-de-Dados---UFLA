@@ -1,3 +1,8 @@
+//Implementação de Arvore Binaria de Busca (ABB)
+//Implementação Feita a partir de conhecimentos adquiridos da Disciplina Estrutura de Dados (GCC 224)
+//Codigo Implementado By FaBiUsKcomp (Fabio Junio) ------- UFLA 2019
+
+
 #include <iostream>
 
 typedef int Dado;
